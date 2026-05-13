@@ -1,0 +1,60 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="John Baker — Principal Full-Stack Engineer">
+  <defs>
+    <!-- Subtle paper grain -->
+    <pattern id="grain" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.5" fill="#1a1612" opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <!-- Cream paper background -->
+  <rect width="1200" height="340" fill="#f4ede1"/>
+  <rect width="1200" height="340" fill="url(#grain)"/>
+
+  <!-- Top hairline accent (left) -->
+  <line x1="80" y1="58" x2="160" y2="58" stroke="#b3441a" stroke-width="2"/>
+
+  <!-- Eyebrow: top-left small caps -->
+  <text x="80" y="86"
+        font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="3" fill="#6b6052">
+    PORTFOLIO · 2026
+  </text>
+
+  <!-- Eyebrow: top-right -->
+  <text x="1120" y="86"
+        font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="3" fill="#6b6052" text-anchor="end">
+    PLEASANTON · CA
+  </text>
+
+  <!-- Main display: "John Baker." -->
+  <text x="80" y="210"
+        font-family="Georgia, 'Iowan Old Style', 'Source Serif Pro', serif"
+        font-size="112" font-weight="400" fill="#1a1612" letter-spacing="-3">
+    John Baker<tspan fill="#b3441a">.</tspan>
+  </text>
+
+  <!-- Italic subtitle -->
+  <text x="84" y="252"
+        font-family="Georgia, 'Iowan Old Style', serif"
+        font-style="italic" font-size="24" fill="#3d352c" letter-spacing="-0.3">
+    Principal Full-Stack Engineer
+  </text>
+
+  <!-- Bottom hairline + tagline -->
+  <line x1="80" y1="290" x2="160" y2="290" stroke="#d9cdb8" stroke-width="1"/>
+  <text x="80" y="312"
+        font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="2.5" fill="#6b6052">
+    BUILDING ENTERPRISE AI AGENTS
+  </text>
+
+  <!-- Right column: typographic mark -->
+  <g transform="translate(1090, 215)">
+    <text x="0" y="0"
+          font-family="Georgia, serif" font-size="96" fill="#1a1612"
+          text-anchor="middle" letter-spacing="-2">JB</text>
+    <circle cx="38" cy="8" r="6" fill="#b3441a"/>
+  </g>
+</svg>
