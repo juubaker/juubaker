@@ -13,7 +13,7 @@
 
 ### Hello.
 
-Twenty-five years of shipping enterprise software — most recently at **Oracle** (HCM Cloud), before that on the **NetBeans IDE** team at Sun Microsystems, and earlier on control systems for the National Ignition Facility at **Lawrence Livermore National Lab**.
+I have extensive experience in shipping enterprise software — most recently at **Oracle** (HCM Cloud), before that on the **NetBeans IDE** team at Sun Microsystems, and earlier on control systems for the National Ignition Facility at **Lawrence Livermore National Lab**.
 
 These days I build the unglamorous middle of AI agent systems: the agent loop, the policy engine, and the audit log that all have to behave in production.
 
